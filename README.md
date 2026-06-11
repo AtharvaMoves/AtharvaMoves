@@ -9,38 +9,50 @@ Founder of RookDuel • Technology Leader • Researcher • AFM Chess Player
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AtharvaMoves&label=Profile%20Views&style=for-the-badge" />
+</p>
+
+<p align="center">
   <a href="https://rookduel.tech">
-    <img src="https://img.shields.io/badge/Website-rookduel.tech-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Website-RookDuel-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/atharvasenbarai">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Atharva%20Sen%20Barai-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/AtharvaMoves">
-    <img src="https://img.shields.io/badge/GitHub-AtharvaMoves-black?style=for-the-badge&logo=github" />
+  <a href="https://x.com/Atharva_Moves">
+    <img src="https://img.shields.io/badge/X-Atharva__Moves-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/Atharva_Moves">
+    <img src="https://img.shields.io/badge/Instagram-Atharva__Moves-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://youtube.com/@RookDuel">
-    <img src="https://img.shields.io/badge/YouTube-RookDuel-red?style=for-the-badge&logo=youtube" />
+    <img src="https://img.shields.io/badge/YouTube-RookDuel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I am a software developer, cybersecurity researcher, and Arena FIDE Master (AFM) focused on building technology at the intersection of software engineering, security, artificial intelligence, and emerging technologies.
+I am passionate about building technology that combines security, innovation, and long-term thinking.
 
-Alongside my work in technology, I compete as an Arena FIDE Master (AFM). The strategic thinking and analytical discipline developed through professional chess continue to influence my approach to software architecture, security research, and problem-solving.
-
-### Current Roles
-
-* Founder & Lead Developer — **RookDuel**
-* Head of Technology — **Marisa System**
-* Cybersecurity Researcher
-* Open-Source Maintainer
+My work spans open-source software, cybersecurity research, artificial intelligence, cryptography, and emerging technologies. Alongside technology, I compete as an Arena FIDE Master (AFM), where strategic thinking and analytical discipline continue to influence my approach to software architecture, research, and problem-solving.
 
 ---
 
-## Current Focus
+## ⚡ Quick Facts
+
+* 🏢 Founder & Lead Developer at **RookDuel**
+* 💼 Head of Technology at **Marisa System**
+* 🛡️ Cybersecurity Researcher
+* 🤖 AI & Emerging Technologies Enthusiast
+* ♟️ Arena FIDE Master (AFM)
+* 🌏 Based in India
+* 🚀 Open-Source Maintainer
+
+---
+
+## 🎯 Current Focus
 
 ```text
 Cybersecurity
@@ -53,9 +65,9 @@ Secure Digital Preservation
 
 ---
 
-## Technology Stack
+## 🛠️ Technology Stack
 
-### Languages
+### 💻 Languages
 
 <p>
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust" />
@@ -65,7 +77,7 @@ Secure Digital Preservation
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-### Frontend
+### 🎨 Frontend
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -78,13 +90,13 @@ Secure Digital Preservation
 <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro" />
 </p>
 
-### Backend & Frameworks
+### ⚙️ Backend & Frameworks
 
 <p>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask" />
 </p>
 
-### Tools & Platforms
+### 🔧 Tools & Platforms
 
 <p>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -95,28 +107,28 @@ Secure Digital Preservation
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### RookDuel
+### 🏰 RookDuel
 
 Open-source initiatives focused on cybersecurity, software engineering, and emerging technologies.
 
-### Avikal
+### 🛡️ Avikal
 
 Security-focused archival and preservation software designed for long-term digital integrity and resilience.
 
 ---
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=AtharvaMoves&show_icons=true&hide_border=true&theme=github_dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=AtharvaMoves&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=AtharvaMoves&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AtharvaMoves&show_icons=true&hide_border=true&rank_icon=github" />
 </picture>
 
 </p>
@@ -133,15 +145,45 @@ Security-focused archival and preservation software designed for long-term digit
 
 </p>
 
+<p align="center">
+
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=AtharvaMoves&hide_border=true&theme=github-dark-blue"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvaMoves&hide_border=true" />
+</picture>
+
+</p>
+
 ---
 
-## Connect
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvaMoves&hide_border=true" />
+</p>
+
+---
+
+## ♟️ Beyond Technology
+
+As an Arena FIDE Master (AFM), chess has played a significant role in shaping my approach to technology. Strategic planning, disciplined analysis, and long-term thinking developed through competitive chess continue to influence my work in software engineering, cybersecurity, and research.
+
+---
+
+## 🌐 Connect
 
 * Website: https://rookduel.tech/atharva
 * LinkedIn: https://linkedin.com/in/atharvasenbarai
 * GitHub: https://github.com/AtharvaMoves
+* X (Twitter): https://x.com/Atharva_Moves
+* Instagram: https://instagram.com/Atharva_Moves
 * YouTube: https://youtube.com/@RookDuel
 
 ---
 
-> Strategic thinking from chess. Practical solutions through technology.
+<p align="center">
+  <i>Building secure technology, advancing open source, and exploring the future of emerging technologies.</i>
+</p>
